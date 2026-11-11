@@ -4,17 +4,15 @@ Student/developer, building backends and learning security.
 
 #### Tech stack
 
-**Languages**
+**Used at work**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,java,c,cpp,ruby,bash&perline=9" alt="Python, TypeScript, JavaScript, Go, Java, C, C++, Ruby, Bash" />
+<img src="https://skillicons.dev/icons?i=py,docker,git" alt="Python, Docker, Git" />
 
-**Backend & Frontend** · plus REST API design
+**Building with**
 
-<img src="https://skillicons.dev/icons?i=fastapi,rails,react,html,css&perline=9" alt="FastAPI, Ruby on Rails, React, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=ts,c,ruby,rails,fastapi,react,postgres,linux,aws,githubactions&perline=10" alt="TypeScript, C, Ruby, Ruby on Rails, FastAPI, React, PostgreSQL, Linux, AWS, GitHub Actions" />
 
-**Data & Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,githubactions,linux,aws&perline=9" alt="PostgreSQL, SQLite, Docker, Git, GitHub, GitHub Actions, Linux, AWS" />
+**Also familiar with:** Go · Java · C++ · Bash · Haskell
 
 #### Writing
 
